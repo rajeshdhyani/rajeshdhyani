@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @rajeshdhyani
-- 👀 I’m interested in ... React, NextJS, Flutter
+- 👀 I’m interested in ... React, NextJS, Flutter, Svelte and Sveltekit
 - 🌱 I’m currently learning ... NextJS
 - 💞️ I’m looking to collaborate on ... Nothing for now
 - 📫 How to reach me ... rajesh.dhyani@gmail.com
